@@ -12,7 +12,7 @@ import {
   STUDIO_ITEMS,
   DRESS_ITEMS,
   MAKEUP_ITEMS,
-} from '../lib/data';
+} from './data';
 
 type TabKey = 'wedding' | 'house' | 'travel';
 
